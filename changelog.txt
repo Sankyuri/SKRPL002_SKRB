@@ -1,4 +1,4 @@
-		changelog.txt of SKRPG004_KRBS: KarabukiSim
+		changelog.txt of SKRPL002_SKRB: SKRBasicVK
 
 
 	2021/11/27 v0.0
