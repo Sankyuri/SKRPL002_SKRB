@@ -1,0 +1,63 @@
+		changelog.txt of SKRPG004_KRBS: KarabukiSim
+
+
+	2021/11/27 v0.0
+G+ プロジェクト、 Git Repository を作成。
+
+
+
+
+
+
+
+
+On add a changelog add to top.
+
+
+Date notation:
+  YYYY/MM/DD
+  
+  ex: 2021/11/27
+
+
+Version notation:
+  v{Major Version}.{Minor Version}.{Dev Version}<p(Preview)|a(Alpha)|b(Beta)]>
+  
+  * Don't use 0 or space padding.
+  * Don't skip number on {Dev Version}.
+  * Don't use space, underline and other symbols.
+  * If on release version then last token <p|a|b> is none.
+  * Don't write {Dev Version} on major or minor release.
+  
+  ex: v1.0.12a
+      v1.1
+
+
+Header sign of content:
+  Normal:
+    +  Add
+    -  Remove
+    *  Change
+    >  Move
+    <  Redo
+    &  Change type
+    _! Danger or large scale change ('_' is some normal-sign)
+    #  Comment
+    X  Reject
+  
+  Special:
+    R_  Change on resource, file or folder
+    S_  Change on script
+    G_  Change on GitHub
+    D_  Change for debug
+    <!> Bug report
+    <#> Comment
+  
+  * Use 3-character field.
+  * Use rear space padding.
+  * Use period at sentense end.
+  * If use new line on one sentense
+    then justify the line beginning at after the sign.
+
+
+
